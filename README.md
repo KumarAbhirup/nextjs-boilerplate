@@ -11,7 +11,7 @@
 - Run
 
 ```bash
-$ git clone https://github.com/KumarAbhirup/nodejs-boilerplate <PROJECT_NAME> # to clone project
+$ git clone https://github.com/KumarAbhirup/nextjs-boilerplate <PROJECT_NAME> # to clone project
 $ cd <PROJECT_NAME> # enter in the project
 $ npm i # install modules
 $ npm run dev # run development server
